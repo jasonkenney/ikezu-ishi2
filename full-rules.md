@@ -160,8 +160,9 @@ Choose your **Background** or roll 3d6 against the **Background Table** to deter
 
 Backgrounds provide flavor to your character. While not a Class, a background helps inform knowledge and skills which may be handy in certain situations. It may also impact interactions within the game.
 
-Background  (3D6) 
-| --- | --- | --- | --- | --- |
+Background  (3D6)
+| Roll | Background | Roll | Background|
+| --- | --- | --- | --- |
 | **3** | BANDIT (SANZOKU) | **11** | MINER (KOFU) |
 | **4** | BLACKSMITH (KAJI) | **12** | NINJA (SHINOBI) |
 | **5** | CARPENTER (DAIKU) | **13** | PERFORMER (GWINOUJIN) |
