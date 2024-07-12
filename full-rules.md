@@ -1,3 +1,11 @@
+---
+layout: default
+title: Ikezu-ishi rules
+nav_order: 13
+---
+
+# Hacks
+
 Ikezu-ishi
 (Malicious Rock)
 
