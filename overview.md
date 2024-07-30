@@ -2,7 +2,6 @@
 layout: default
 title: Overview and Principles
 nav_order: 2
-permalink: /overview
 ---
 ## Overview and Principles
 
