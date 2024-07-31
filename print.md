@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Print
-nav_order: 3
+nav_order: 23
 ---
 
 # Grab a print copy!
