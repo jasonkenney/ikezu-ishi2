@@ -1,4 +1,9 @@
-Exploration Tables
+---
+layout: default
+title: Exploration Tables
+nav_order: 3
+---
+## Exploration Tables
 
 
 |D6+ TERRAIN MODIFIER|TRAVEL|EXPLORE|SUPPLY|CAMP|
