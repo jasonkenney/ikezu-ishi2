@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Rules
+title: Playing the Game
 nav_order: 3
 parent: Rules
 ---
 
-# Rules
+# Playing the Game
 
