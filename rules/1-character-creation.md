@@ -2,7 +2,7 @@
 layout: default
 title: Creating Your Character
 nav_order: 1
-parent: Rules
+parent: rules
 ---
 
 # Creating Your Character
