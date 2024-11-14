@@ -24,3 +24,14 @@ See **Overview and Principles** for more information.
 ·     Don’t obsess over honorifics in speech.
 
 ·     Don’t obsess over “honor” as a motivation.
+
+
+<button onclick="document.getElementById('demo').innerHTML = getRndInteger(1,7)">Click Me</button>
+​
+<p id="demo"></p>
+​
+<script>
+function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+</script>
